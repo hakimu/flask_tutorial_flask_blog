@@ -1,0 +1,14 @@
+2014-09-19 21:20:30,916 (4284/Dummy-1) newrelic.core.agent INFO - New Relic Python Agent (2.30.0.27)
+2014-09-19 21:20:32,187 (4284/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Successfully registered New Relic Python agent where app_name='Flask Blog', pid=4284, redirect_host=u'collector-111.newrelic.com' and agent_run_id=1483563622, in 0.77 seconds.
+2014-09-19 21:20:32,187 (4284/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Reporting to: https://rpm.newrelic.com/accounts/527930/applications/3886025
+2014-09-19 21:24:28,735 (4284/Dummy-2) newrelic.core.agent INFO - New Relic Python Agent Shutdown
+2014-09-19 21:24:29,179 (4284/NR-Harvest-Thread) newrelic.core.data_collector INFO - Successfully shutdown New Relic Python agent where app_name='Flask Blog', pid=4284, and agent_run_id=1483563622
+2014-09-19 21:34:40,176 (4413/MainThread) newrelic.core.agent INFO - New Relic Python Agent (2.30.0.27)
+2014-09-19 21:34:40,241 (4412/MainThread) newrelic.core.agent INFO - New Relic Python Agent (2.30.0.27)
+2014-09-19 21:34:41,372 (4413/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Successfully registered New Relic Python agent where app_name='Flask Blog', pid=4413, redirect_host=u'collector-111.newrelic.com' and agent_run_id=1483585337, in 0.67 seconds.
+2014-09-19 21:34:41,372 (4413/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Reporting to: https://rpm.newrelic.com/accounts/527930/applications/3886025
+2014-09-19 21:34:41,385 (4412/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Successfully registered New Relic Python agent where app_name='Flask Blog', pid=4412, redirect_host=u'collector-111.newrelic.com' and agent_run_id=1483585338, in 0.65 seconds.
+2014-09-19 21:34:41,385 (4412/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Reporting to: https://rpm.newrelic.com/accounts/527930/applications/3886025
+2014-09-19 21:34:42,086 (4414/MainThread) newrelic.core.agent INFO - New Relic Python Agent (2.30.0.27)
+2014-09-19 21:34:43,274 (4414/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Successfully registered New Relic Python agent where app_name='Flask Blog', pid=4414, redirect_host=u'collector-111.newrelic.com' and agent_run_id=1483585377, in 0.68 seconds.
+2014-09-19 21:34:43,275 (4414/NR-Activate-Session/Flask Blog) newrelic.core.data_collector INFO - Reporting to: https://rpm.newrelic.com/accounts/527930/applications/3886025
